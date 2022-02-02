@@ -1,0 +1,7 @@
+   ACCOUNT NAME        ACCOUNT NO
+     Shri               10001
+     Shilpa             10002
+     Riya               10003
+      
+       This is a new account .
+
